@@ -1,4 +1,3 @@
-# DS-PROJECT-R1F24UBSCS163-4A
 Employee Management System
 Group Members
 Talal Ishtiaq – (163)
